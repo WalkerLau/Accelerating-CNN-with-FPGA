@@ -1,6 +1,10 @@
 # \<Super Detailed Tutorial\> Accelerate CNN computation with FPGA
 
-<font face="黑体" size=5>查看中文版教程请戳 [**这里**](./README_CN.md) ,更详细哦！</font>
+>查看中文版教程请戳 [**这里**](./README_CN.md) ,更详细哦！
+
+>查看中文版教程请戳 [**这里**](./README_CN.md) ,更详细哦！
+
+>查看中文版教程请戳 [**这里**](./README_CN.md) ,更详细哦！
 
 This is an original tutorial, please indicate the source when it is reprinted : <https://github.com/WalkerLau>
 
