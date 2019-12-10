@@ -3,6 +3,8 @@
 
 源码地址：https://github.com/WalkerLau/Accelerating-CNN-with-FPGA
 
+【2019.12更新】本项目GPU加速版本请查看：<https://github.com/WalkerLau/GPU-CNN>
+
 最近发现很多小伙伴都想用FPGA加速卷积神经网络运算，而恰好我刚做完的本科毕设就是这个题目，所以就有了写这个教程的想法，希望能给还没开始的小伙伴一点思路与帮助，更希望大神们给出一些进一步优化的建议。
 
 ## 最终加速性能
