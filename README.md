@@ -4,7 +4,9 @@
 >查看中文版教程请戳 [**这里**](./README_CN.md) ,更详细哦！  
 >查看中文版教程请戳 [**这里**](./README_CN.md) ,更详细哦！  
 
-This is an original tutorial, please indicate the source when it is reprinted : <https://github.com/WalkerLau>
+This is an original tutorial, please indicate the source when it is reprinted : <https://github.com/WalkerLau/Accelerating-CNN-with-FPGA>
+
+For a GPU version of this project, please refer to: <https://github.com/WalkerLau/GPU-CNN>
 
 The purpose of this project is to accelerate the processing speed of convolution neural network with the help of FPGA, which shows great advantage on parallel computation. It's also my bachelor graduation project, and I am glad to show you how my work is done step by step.   
 
